@@ -2,7 +2,7 @@ import React from 'react';
 import { motion } from 'framer-motion';
 import { CheckCircle2 } from 'lucide-react';
 import courtRoom from '../../../assets/home/court-room-8Og9yG1j.png'
-import amrutaBharadwajBanner from '../../../assets/home/amrutaBharadwajBanner.png'
+import amrutaBharadwajBanner from '../../../assets/home/AmrutaBharadwajBanner.png'
 
 const AboutPreview = () => {
     const features = [
