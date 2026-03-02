@@ -60,8 +60,8 @@ const Footer = () => {
                             <li className="flex items-start">
                                 <MapPin className="h-5 w-5 text-brand-gold shrink-0 mr-3 mt-0.5" />
                                 <span className="text-gray-300 text-sm">
-                                    Rajkot, Gujarat, India<br />
-                                    (Complete address placeholder)
+
+                                    150 Feet Ring Road, Office 401, The Spire-2, Sheetal Park Chowk, Rajkot, Gujarat 360007, INDIA
                                 </span>
                             </li>
                             <li className="flex items-center">
