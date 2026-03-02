@@ -16,7 +16,7 @@ const Footer = () => {
                                 <img src={logo} alt="Logo" className="w-full h-full object-contain" onError={(e) => { e.target.style.display = 'none' }} />
                             </div>
                             <span className="font-serif text-white text-xl font-bold tracking-wide">
-                                Abhay Bharadwaj & Associates
+                                Abhay Bharadwaj And Associates
                             </span>
                         </Link>
                         <p className="text-gray-300 text-sm leading-relaxed">
@@ -61,17 +61,17 @@ const Footer = () => {
                                 <MapPin className="h-5 w-5 text-brand-gold shrink-0 mr-3 mt-0.5" />
                                 <span className="text-gray-300 text-sm">
 
-                                    150 Feet Ring Road, Office 401, The Spire-2, Sheetal Park Chowk, Rajkot, Gujarat 360007, INDIA
+                                    SUYOG, FIRST FLOOR, OPP LODHWAD POLICE STATION, RAJKOT - 360002
                                 </span>
                             </li>
                             <li className="flex items-center">
                                 <Phone className="h-5 w-5 text-brand-gold shrink-0 mr-3" />
-                                <span className="text-gray-300 text-sm">+91 XXXXXXXXXX</span>
+                                <span className="text-gray-300 text-sm">+91 9727473730</span>
                             </li>
                             <li className="flex items-center">
                                 <Mail className="h-5 w-5 text-brand-gold shrink-0 mr-3" />
                                 <a href="mailto:info@abhaybharadwaj.com" className="text-gray-300 hover:text-brand-gold transition-colors text-sm">
-                                    info@abhaybharadwaj.com
+                                    ansh.bharadwaj28@gmail.com
                                 </a>
                             </li>
                         </ul>
@@ -81,7 +81,7 @@ const Footer = () => {
 
                 {/* Bottom Bar */}
                 <div className="pt-8 border-t border-gray-700 flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0 text-sm text-gray-400">
-                    <p>&copy; {new Date().getFullYear()} Abhay Bharadwaj & Associates. All rights reserved.</p>
+                    <p>&copy; {new Date().getFullYear()} Abhay Bharadwaj And Associates. All rights reserved.</p>
                     <div className="flex space-x-6">
                         <Link to="/privacy-policy" className="hover:text-brand-gold transition-colors">Privacy Policy</Link>
                         <Link to="/terms-of-service" className="hover:text-brand-gold transition-colors">Terms of Service</Link>

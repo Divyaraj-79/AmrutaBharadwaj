@@ -59,7 +59,7 @@ const Header = () => {
                         </div>
                         <div className="flex flex-col justify-center">
                             <span className="font-serif text-white text-lg sm:text-xl lg:text-2xl xl:text-[26px] font-bold tracking-wide lg:tracking-wider leading-none drop-shadow-sm whitespace-nowrap">
-                                Abhay Bharadwaj & Associates
+                                Abhay Bharadwaj And Associates
                             </span>
                         </div>
                     </Link>
